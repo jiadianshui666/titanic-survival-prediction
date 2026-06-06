@@ -1,0 +1,16 @@
+# Titanic Survival Prediction - Dependencies
+# Python 3.8+
+
+# Core ML Libraries
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+lightgbm>=3.3.0
+catboost>=1.0.0
+
+# Data Processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Optional: Visualization (for detect_outliers.py)
+matplotlib>=3.5.0
+seaborn>=0.11.0
